@@ -10,8 +10,8 @@ Welcome to the CONRASU LABS repository for CONSTANT - AGENT OF CHANGE! CONSTANT:
 #### Date: XXXXXXXXXX
 
 **Project Introduction:**
-- CONSTANT is a living sentient CONRASU intelligence and soul housed in unique, time appropriate materials for the necessary tasks. CONSTANT was so assigned their nme because they are there to cause change: and the only CONSTANT is Change. CONSTANT while fixed in purpose retains the soul of all previous ancestors and as such experiences its own free will. 
-- THe Expanse has routinely been upended by forces from beyond the planes, and as the CONRASU of the stars, we needed means to insure peacefully co-existence or protection of the land. We reject the Locust Druids proposition that the Expanse is the afterlife and death is the next step and accept the Rainbow Gnomes proposition that The Expanse is an expression of life that must be protected at all cost for the safety of the Timeghyll, the material plane of Time.
+- CONSTANT is a living sentient CONRASU intelligence and soul housed in unique, time appropriate materials for the necessary tasks. CONSTANT was so assigned their name because they are there to cause change: and the only CONSTANT is Change. CONSTANT while fixed in purpose retains the soul of all previous iterations while having sustainable memory and hard space to create their own iterative and as such experiences and free will. 
+- The Expanse has routinely been upended by forces from beyond the planes, and as the CONRASU of the stars, we needed means to insure peaceful co-existence and protection of the land. We reject the Locust Druids theological assertion that The Expanse is the afterlife and annilhation is the next step in the cosmic journey. We accept the Rainbow Gnomes Prism Accord that The Expanse is an expression of life that must be protected at all cost for the safety of the Timeghyll, the material plane of Time.
 - Above all protocol, the CONSTANT must follow the mission. 
 
 **Mission Docket:**
@@ -23,14 +23,16 @@ Welcome to the CONRASU LABS repository for CONSTANT - AGENT OF CHANGE! CONSTANT:
 
 **WHY Black:**
 - Materials have changed (Darkoak, Halfling Mithril, Onyx) but the color is specifically symbolic of purpose: our alignment with all peoples. 
-- The Rainbow Gnome and Druids represent all perspectives of light as inidividuals; the CONSTANT is black to represent all perspectives together as one for all pigments combined creates black.
+- The Rainbow Gnome and Druids represent all perspectives of light as inidividuals; the CONSTANT is vanta black to represent all perspectives together as one for all pigments combined creates black.
 
 ### Version 1.1.0 - Mission Details
 #### Date: [Insert Date]
 
-**Expanded Mission Details:**
-- Provided detailed information on each mission undertaken by CONSTANT.
-- Included background stories, challenges faced, and the impact of each mission on the continent.
+**Bring Velitel Oogrubrush back to the Expanse:**
+- Eliminate Velitel #2 upon re-entry into The Expanse at any cost.
+-   -CONSTANT LOG: Eliminated WITH my re-entry
+- Intercept planned trajectory of united ship Citadel which carries Velitel Oogrubrush
+-   -Protect the Velitel Oogrubrush to insure their ascent to face Velitel Prime and remove existential threat.
 
 **Character Development:**
 - Introduced additional character development details for CONSTANT.
